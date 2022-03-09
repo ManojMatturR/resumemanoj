@@ -1,0 +1,148 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hea{
+    display: flex;
+    background: rgb(36, 35, 35);
+    align-items: center;
+    padding-top: 50px;
+    justify-content: center;
+    padding-bottom: 0;
+    padding-bottom: 10px;
+}
+.ch{
+    display: flex;
+    background: rgb(36, 35, 35);
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5px;
+}
+.hdr{
+    display: flex;
+    background: rgb(36, 35, 35);
+    justify-content: center;
+    align-items: center;
+    color: ivory;
+    padding-bottom: 50px;
+}
+
+.edu{
+    display: block;
+    padding-left: 50px;
+    padding-top: 50px;
+    color: white;
+    background: rgb(36, 35, 35);
+    padding-bottom: 0px;
+    padding-right: 10%;
+}
+
+.proj{
+    display: block;
+    padding-left: 50px;
+    padding-top: 50px;
+    color: white;
+    background: rgb(36, 35, 35);
+    padding-bottom: 0px;
+    padding-right: 10%;
+}
+
+.tech{
+    display: block;
+    padding-left: 50px;
+    padding-top: 50px;
+    color: white;
+    background: rgb(36, 35, 35);
+    padding-bottom: 0px;
+    padding-right: 10%;
+}
+.ct{
+    display: block;
+    padding-left: 50px;
+    padding-top: 50px;
+    color: white;
+    background: rgb(36, 35, 35);
+    padding-bottom: 0px;
+    padding-right: 10%;
+}
+
+.lang{
+    display: block;
+    padding-left: 50px;
+    padding-top: 50px;
+    color: white;
+    background: rgb(36, 35, 35);
+    padding-bottom: 0px;
+    padding-right: 10%;
+}
+.hob{
+    display: block;
+    padding-left: 50px;
+    padding-top: 50px;
+    color: white;
+    background: rgb(36, 35, 35);
+    padding-bottom: 50px;
+    padding-right: 10%;
+}
+
+hr{
+    margin-bottom: 15px;
+}
+
+@media (max-width: 768px) {
+    .edu {
+        display: block;
+        padding-left: 25px;
+        padding-top: 50px;
+        color: white;
+        background: rgb(36, 35, 35);
+        padding-bottom: 0px;
+        padding-right: 25px;
+    }
+    .proj {
+        display: block;
+        padding-left: 25px;
+        padding-top: 50px;
+        color: white;
+        background: rgb(36, 35, 35);
+        padding-bottom: 0px;
+        padding-right: 25px;
+    }
+    .tech {
+        display: block;
+        padding-left: 25px;
+        padding-top: 50px;
+        color: white;
+        background: rgb(36, 35, 35);
+        padding-bottom: 0px;
+        padding-right: 25px;
+    }
+    .ct {
+        display: block;
+        padding-left: 25px;
+        padding-top: 50px;
+        color: white;
+        background: rgb(36, 35, 35);
+        padding-bottom: 0px;
+        padding-right: 25px;
+    }
+    .lang {
+        display: block;
+        padding-left: 25px;
+        padding-top: 50px;
+        color: white;
+        background: rgb(36, 35, 35);
+        padding-bottom: 0px;
+        padding-right: 25px;
+    }
+    .hob {
+        display: block;
+        padding-left: 25px;
+        padding-top: 50px;
+        color: white;
+        background: rgb(36, 35, 35);
+        padding-bottom: 50px;
+        padding-right: 25px;
+    }}
